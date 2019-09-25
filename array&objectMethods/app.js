@@ -129,6 +129,53 @@
 // console.log(birthday);
 
 
+/// CONDITIONALS - UNIARY BINARY AND TERNARY  
+//  single '=' is an assingment operator
+//  == and === is a comparison operator
+
+// if (typeof id !== 'undefined') {
+//   console.log(`Id is : ${id}`)
+// }  // The way to test if a variable exists or not and to use it if it does
+
+// //Logical Operators && ||  //  Note each evaluative statement require a variable comparison e.g. age>0 && age <19, not age>0 && <19.
+
+// //Ternary Operators
+// var id = 100;
+// console.log(id === 100 ? 'correct' : 'incorrect');
+
+// //Switches to define cases
+// const color = 'red'
+
+// switch (color) {
+//   case 'red':
+//     console.log('color is red');
+//     break;
+//   case 'blue':
+//     console.log('color is blue');
+//     break;
+//   default:
+//     console.log('color is not red or blue');
+// }
+
+// let day;
+// day
+// switch (new Date().getDay()) {
+//   case 0:
+//     day = 'Sunday';
+//     break;
+//   case 1:
+//     day = 'Monday';
+//     break;
+//   case 2:
+//     day = 'Tuesday';
+//     break;
+//   default:
+//     day = 'other day'
+// }
+// console.log(`Today is ${day}`)
+
+
+
 
 
 
